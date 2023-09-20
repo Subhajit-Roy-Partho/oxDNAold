@@ -1,1 +1,0 @@
-/packages/7x/gcc/gcc-9.3.0/bin/g++  -fPIC -g   -shared -Wl,-soname,MGAnalysis.so -o ../../../contrib/rovigatti/MGAnalysis.so CMakeFiles/MGAnalysis.dir/src/Observables/MGAnalysis.cpp.o 

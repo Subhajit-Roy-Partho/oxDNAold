@@ -1,1 +1,0 @@
-/packages/7x/gcc/gcc-9.3.0/bin/g++  -fPIC -g   -shared -Wl,-soname,ChiralRodInteraction.so -o ../../../contrib/romano/ChiralRodInteraction.so CMakeFiles/ChiralRodInteraction.dir/src/Interactions/ChiralRodInteraction.cpp.o CMakeFiles/ChiralRodInteraction.dir/__/__/src/Particles/SpheroCylinder.cpp.o 

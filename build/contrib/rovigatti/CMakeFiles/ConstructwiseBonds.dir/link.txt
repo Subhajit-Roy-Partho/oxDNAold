@@ -1,1 +1,0 @@
-/packages/7x/gcc/gcc-9.3.0/bin/g++  -fPIC -g   -shared -Wl,-soname,ConstructwiseBonds.so -o ../../../contrib/rovigatti/ConstructwiseBonds.so CMakeFiles/ConstructwiseBonds.dir/src/Observables/ConstructwiseBonds.cpp.o 

@@ -1,1 +1,0 @@
-/packages/7x/gcc/gcc-9.3.0/bin/g++  -fPIC -g   -shared -Wl,-soname,StarrConf.so -o ../../../contrib/rovigatti/StarrConf.so CMakeFiles/StarrConf.dir/src/Observables/StarrConf.cpp.o 

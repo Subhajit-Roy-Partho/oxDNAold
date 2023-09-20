@@ -1,1 +1,0 @@
-/packages/7x/gcc/gcc-9.3.0/bin/g++  -fPIC -g   -shared -Wl,-soname,VoidPercolation.so -o ../../../contrib/rovigatti/VoidPercolation.so CMakeFiles/VoidPercolation.dir/src/Observables/VoidPercolation.cpp.o 

@@ -1,1 +1,0 @@
-/packages/7x/gcc/gcc-9.3.0/bin/g++  -fPIC -g   -shared -Wl,-soname,ChiralRodExplicit.so -o ../../../contrib/romano/ChiralRodExplicit.so CMakeFiles/ChiralRodExplicit.dir/src/Interactions/ChiralRodExplicit.cpp.o CMakeFiles/ChiralRodExplicit.dir/__/__/src/Particles/SpheroCylinder.cpp.o 

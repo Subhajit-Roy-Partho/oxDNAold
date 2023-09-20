@@ -1,1 +1,0 @@
-/packages/7x/gcc/gcc-9.3.0/bin/g++  -fPIC -g   -shared -Wl,-soname,MGAssemblyConf.so -o ../../../contrib/rovigatti/MGAssemblyConf.so CMakeFiles/MGAssemblyConf.dir/src/Observables/MGAssemblyConf.cpp.o 
