@@ -1,0 +1,1 @@
+/packages/7x/gcc/gcc-9.3.0/bin/g++  -fPIC -g   -shared -Wl,-soname,StarrInteraction.so -o ../../../contrib/rovigatti/StarrInteraction.so CMakeFiles/StarrInteraction.dir/src/Interactions/StarrInteraction.cpp.o 

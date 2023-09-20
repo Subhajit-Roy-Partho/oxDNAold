@@ -1,0 +1,1 @@
+/packages/7x/gcc/gcc-9.3.0/bin/g++   -g    CMakeFiles/oxDNA_debug.dir/oxDNA.cpp.o  -o ../bin/oxDNA_debug -rdynamic libcommon_debug.a -ldl 

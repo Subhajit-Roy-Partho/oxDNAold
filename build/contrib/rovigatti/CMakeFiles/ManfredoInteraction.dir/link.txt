@@ -1,0 +1,1 @@
+/packages/7x/gcc/gcc-9.3.0/bin/g++  -fPIC -g   -shared -Wl,-soname,ManfredoInteraction.so -o ../../../contrib/rovigatti/ManfredoInteraction.so CMakeFiles/ManfredoInteraction.dir/src/Interactions/ManfredoInteraction.cpp.o 
