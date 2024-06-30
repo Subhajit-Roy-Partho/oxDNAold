@@ -1,2 +1,4 @@
 **/build/*
 build/
+*.so
+contrib/romano/AVBDepletion.so

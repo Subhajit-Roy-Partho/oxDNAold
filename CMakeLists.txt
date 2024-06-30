@@ -5,12 +5,12 @@ SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -D_FORCE_INLINES")
 
 OPTION(CUDA "Set to ON to compile with CUDA support" OFF)
 OPTION(MPI "Set to ON to compile with MPI support" OFF)
-OPTION(Debug "Set to ON to compile with debug symbols" ON)
+OPTION(Debug "Set to ON to compile with debug symbols" OFF)
 OPTION(G "Set to ON to compile with optimisations and debug symbols" OFF)
 OPTION(INTEL "Use the Intel compiler" OFF)
 OPTION(MOSIX "Make oxDNA compatible with MOSIX" OFF)
 OPTION(SIGNAL "Enable SignalManager - set to OFF for OSX compatibility" OFF)
-OPTION(CXX11 "Compile with C++11 support" OFF)
+OPTION(CXX11 "Compile with C++11 support" ON)
 
 # these operations have to be performed before PROJECT(oxDNA) or we will have
 # problems at linking time
